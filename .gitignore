@@ -1,0 +1,24 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Environments
+.venv
+venv/
+env/
+car_damage_env/
+
+# Datasets (Large Files)
+carDD/
+
+# Models (Optional: keeping small ones in git is okay, but large ones should be excluded)
+# *.pt
+
+# Temporary files
+temp/
+*.log
+
+# OS generated files
+.DS_Store
+Thumbs.db

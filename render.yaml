@@ -1,0 +1,11 @@
+services:
+  - type: web
+    name: car-damage-detection
+    env: docker
+    plan: free
+    region: oregon
+    envVars:
+      - key: PORT
+        value: 8000
+      - key: MODEL_PATH
+        value: /app/backend/models/best.pt

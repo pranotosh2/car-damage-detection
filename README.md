@@ -2,7 +2,7 @@
 
 A modern web application for identifying and assessing car damage using computer vision (YOLOv8) and a Flask backend.
 
-![Screenshot](frontend/screenshot.png) *(Placeholder for your future screenshot)*
+![Screenshot](frontend/screenshot.png) 
 
 ## 🌟 Features
 
